@@ -1,4 +1,3 @@
-# Real Wi-Fi credentials - copy secrets.example.h to secrets.h locally
 firmware/**/secrets.h
 
 # KiCad local/backup files

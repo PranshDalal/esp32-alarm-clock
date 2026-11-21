@@ -5,7 +5,7 @@
 #include <Adafruit_SSD1306.h>
 #include <Preferences.h>
 
-#include "secrets.h"  // WiFi credentials (not shared); see secrets.example.h
+#include "secrets.h"  
 const char* TIMEZONE  = "PST8PDT,M3.2.0,M11.1.0";
 
 #define BUZZER_ACTIVE_LOW true
