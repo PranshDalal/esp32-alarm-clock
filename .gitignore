@@ -1,0 +1,14 @@
+# Real Wi-Fi credentials - copy secrets.example.h to secrets.h locally
+firmware/**/secrets.h
+
+# KiCad local/backup files
+*.kicad_prl
+*-backups/
+.history/
+~*.lck
+fp-info-cache
+*-unsaved-export-*
+
+# OS / build
+.DS_Store
+build/
